@@ -1,0 +1,17 @@
+c:\users\ivo_pc\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+c:\users\ivo_pc\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+c:\users\ivo_pc\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+c:\users\ivo_pc\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+c:\users\ivo_pc\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+c:\users\ivo_pc\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+c:\users\ivo_pc\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\KarmaConvertor.csproj.GenerateResource.Cache
+c:\users\ivo_pc\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\KarmaConvertor.Form1.resources
+C:\Users\Ivo_PC\Documents\Visual Studio 2012\Projects\KarmaConvertor\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Ivo_PC\Documents\Visual Studio 2012\Projects\KarmaConvertor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Ivo_PC\Documents\Visual Studio 2012\Projects\KarmaConvertor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Ivo_PC\Documents\Visual Studio 2012\Projects\KarmaConvertor\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Ivo_PC\Documents\Visual Studio 2012\Projects\KarmaConvertor\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Ivo_PC\Documents\Visual Studio 2012\Projects\KarmaConvertor\WindowsFormsApplication1\obj\Debug\KarmaConvertor.Form1.resources
+C:\Users\Ivo_PC\Documents\Visual Studio 2012\Projects\KarmaConvertor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Ivo_PC\Documents\Visual Studio 2012\Projects\KarmaConvertor\WindowsFormsApplication1\obj\Debug\KarmaConvertor.csproj.GenerateResource.Cache
+C:\Users\Ivo_PC\Documents\Visual Studio 2012\Projects\KarmaConvertor\WindowsFormsApplication1\obj\Debug\KarmaConvertor.csprojResolveAssemblyReference.cache
